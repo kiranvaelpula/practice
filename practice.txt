@@ -1,5 +1,6 @@
 practising git
 
+<<<<<<< HEAD
 modifing file
 
 testing
@@ -7,3 +8,6 @@ testing
 unstage
 
 pull testing
+=======
+modifing file
+>>>>>>> 4098fadebd550c278c93a897e3a97ebcdf55c080
