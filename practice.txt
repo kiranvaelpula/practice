@@ -1,1 +1,7 @@
 practising git
+
+modifing file
+
+testing
+
+unstage
